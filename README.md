@@ -1,5 +1,7 @@
 ## Hiii Liliana here (better known as the one and only lila (or lorla, lilar...)). 
 
+### Read about me [here](https://lilaa3.github.io/awesome_website/)
+
 I'm an 19 year old trans woman from Portugal (horrible country, discount Brazil at best. I'm spiritually spanish)
 
 I code in c, c++, c# and python (though I can adapt to other languages, like js!).
